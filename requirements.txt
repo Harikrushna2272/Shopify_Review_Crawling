@@ -1,0 +1,4 @@
+streamlit>=1.31
+aiohttp>=3.9
+requests>=2.31
+psutil>=5.9
